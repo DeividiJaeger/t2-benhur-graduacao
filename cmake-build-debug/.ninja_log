@@ -1,0 +1,10 @@
+# ninja log v5
+1	56	1697739581728020894	CMakeFiles/t2_deividi.dir/main.c.o	c4f7659b707f3c94
+0	44	1697551930368120891	CMakeFiles/t2_deividi.dir/tecla.c.o	a37689c1e994cfc3
+1	29	1697552400832135248	CMakeFiles/t2_deividi.dir/teste-tecla.c.o	c3c5b635694cb707
+1	37	1697551930360120891	CMakeFiles/t2_deividi.dir/testa-tecla.c.o	77a0399a226de6bc
+2	305	1699277753840006602	CMakeFiles/tecla.h.dir/teste-tecla.c.o	571a32d7423d457d
+1	306	1699277753840006602	CMakeFiles/tecla.h.dir/tecla.c.o	9e532e2246ee613e
+3	321	1699277753856006602	CMakeFiles/tecla.h.dir/t2-deividi.c.o	40537f9b212fa61a
+306	378	1699277753916006603	CMakeFiles/tecla.h.dir/testa-tela.c.o	9798635a8ad994af
+308	398	1699277753936006603	CMakeFiles/tecla.h.dir/tela.c.o	57fae7e430648eed

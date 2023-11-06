@@ -1,0 +1,3 @@
+/home/deividi/ExercicioEnviarBenhur/t2-deividi/cmake-build-debug/CMakeFiles/tecla.h.dir
+/home/deividi/ExercicioEnviarBenhur/t2-deividi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/deividi/ExercicioEnviarBenhur/t2-deividi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
